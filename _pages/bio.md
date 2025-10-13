@@ -2,7 +2,7 @@
 layout: bio
 title: Bio
 permalink: /bio
-subtitle: Researcher. Thinker & Feeler. Corona, Queens Boy.
+subtitle: Researcher. Corona, Queens Boy.
 nav: true
 nav_order: 2
 profile:
